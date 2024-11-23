@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ef7ba2-f7f8-4e34-baba-2ec185fc091b" name="Changes" comment="Initial commit" />
+    <list default="true" id="68ef7ba2-f7f8-4e34-baba-2ec185fc091b" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/conditionalStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/evenOddnumberChecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/logicalOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/moduloOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/pizzaOrderApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/projectTreasureIsland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/ticketPaymtPlanByAge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3challengeAndTask/updatedRollerCoasterApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/firstProjects/clickRun" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -30,26 +41,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.basicOperator.executor": "Run",
-    "Python.calcuBmi.executor": "Run",
-    "Python.clickRun_project.executor": "Run",
-    "Python.dataType.executor": "Run",
-    "Python.errorCheckConversion.executor": "Run",
-    "Python.errorDebugging.executor": "Run",
-    "Python.fstrings.executor": "Run",
-    "Python.inputFunction.executor": "Run",
-    "Python.numberManipulation.executor": "Run",
-    "Python.task.executor": "Run",
-    "Python.tipCalculator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Jack Sparrow/PycharmProjects/masterPython_with_100DaysProject/firstProjects/clickRun"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.basicOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcuBmi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clickRun_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditionalStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.errorCheckConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.errorDebugging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evenOddnumberChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fstrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logicalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moduloOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberManipulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pizzaOrderApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projectTreasureIsland.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ticketPaymtPlanByAge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tipCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.updatedRollerCoasterApp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jack Sparrow/PycharmProjects/masterPython_with_100DaysProject/firstProjects/clickRun&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jack Sparrow\PycharmProjects\masterPython_with_100DaysProject\Day2Project\day2TaskProject" />
       <recent name="C:\Users\Jack Sparrow\PycharmProjects\masterPython_with_100DaysProject\firstProjects\clickRun" />
       <recent name="C:\Users\Jack Sparrow\PycharmProjects\masterPython_with_100DaysProject\firstProjects" />
     </key>

@@ -45,7 +45,7 @@ if choose_direction == "left":
         elif choose_ur_door == "red":
             print("Eaten by beasts. Game Over!")
         elif choose_ur_door == "blue":
-            print("Congratulation! You Win!!!")
+            print("Congratulation! You have found the treasure. You Win!!!")
         else:
             print("Game Over! Try again next time.")
     else:

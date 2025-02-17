@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68ef7ba2-f7f8-4e34-baba-2ec185fc091b" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Day6Project/indentationTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6Project/simpleCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6Project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6Project/whileLoopTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8Project_function/caesarCipher1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8Project_function/love_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8Project_function/task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,6 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jacksonitoro&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jacksonitoro/master-Python-challenge-Project.git&quot;,
+    &quot;accountId&quot;: &quot;9cfcc716-cf65-4847-a45e-5578c1874af1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -37,6 +62,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.basicOperator.executor": "Run",
+    "Python.caesarCipher1.executor": "Run",
     "Python.calcuBmi.executor": "Run",
     "Python.clickRun_project.executor": "Run",
     "Python.conditionalStatements.executor": "Run",
@@ -47,8 +73,11 @@
     "Python.fstrings.executor": "Run",
     "Python.generateRandomNumber.executor": "Run",
     "Python.headOrTail.executor": "Run",
+    "Python.indentationTest.executor": "Run",
     "Python.inputFunction.executor": "Run",
     "Python.logicalOperator.executor": "Run",
+    "Python.love_calculator.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.moduloOperator.executor": "Run",
     "Python.numberManipulation.executor": "Run",
     "Python.pizzaOrderApp.executor": "Run",
@@ -56,7 +85,9 @@
     "Python.pyPassWordGeneratorProject.executor": "Run",
     "Python.rockPaperScissorGame.executor": "Run",
     "Python.scoreNumberManipulation.executor": "Run",
+    "Python.simpleCalculator.executor": "Run",
     "Python.task.executor": "Run",
+    "Python.task1.executor": "Run",
     "Python.taskPractice.executor": "Run",
     "Python.ticketPaymtPlanByAge.executor": "Run",
     "Python.tipCalculator.executor": "Run",
@@ -64,7 +95,8 @@
     "Python.workingWithList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Jack Sparrow/OneDrive - Ostbayerische Technische Hochschule Amberg-Weiden/Desktop/DTM Course AW/WS_2024_25/ObjectOrientedProgramming/OOP class and projects"
+    "last_opened_file_path": "C:/Users/Jack Sparrow/OneDrive - Ostbayerische Technische Hochschule Amberg-Weiden/Desktop/DTM Course AW/WS_2024_25/ObjectOrientedProgramming/OOP class and projects",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731747571817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1734947074947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734947074947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

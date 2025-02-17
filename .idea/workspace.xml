@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68ef7ba2-f7f8-4e34-baba-2ec185fc091b" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Day6Project/indentationTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6Project/simpleCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6Project/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6Project/whileLoopTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8Project_function/caesarCipher1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8Project_function/love_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8Project_function/task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day8Project_function/encrypt_decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day8Project_function/encrypt_decrypt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +56,12 @@
   "keyToString": {
     "Python.basicOperator.executor": "Run",
     "Python.caesarCipher1.executor": "Run",
+    "Python.caesarCipherDecrypt.executor": "Run",
     "Python.calcuBmi.executor": "Run",
     "Python.clickRun_project.executor": "Run",
     "Python.conditionalStatements.executor": "Run",
     "Python.dataType.executor": "Run",
+    "Python.encrypt_decrypt.executor": "Run",
     "Python.errorCheckConversion.executor": "Run",
     "Python.errorDebugging.executor": "Run",
     "Python.evenOddnumberChecker.executor": "Run",
